@@ -15,25 +15,25 @@ Having provided my Ethereum wallet and account information, using the functions 
 
 ### Streamlit - Fintech Professionals 
 
-![An image of Fintech Professionals](Picture 2.png)
+![An image of Fintech Professionals](https://github.com/juliannehiew/Cryptocurrency-Wallet/blob/main/Images/Picture2.png)
 
 
-![An image of Fintech Professionals](Picture 3.png)
+![An image of Fintech Professionals](https://github.com/juliannehiew/Cryptocurrency-Wallet/blob/main/Images/Picture3.png)
 
 
 ### Ganache – my address balance and history
 
-![Ganache](Picture 4.png)
+![Ganache](https://github.com/juliannehiew/Cryptocurrency-Wallet/blob/main/Images/Picture4.png)
 
 
 ### Ganache – Transaction details
 
-![Ganache](Picture 5.png)
+![Ganache](https://github.com/juliannehiew/Cryptocurrency-Wallet/blob/main/Images/Picture5.png)
 
 
 ### Ganache - Recipients balance and history, including gas used
 
-![Ganache](Picture 6.png)
-![Ganache](Picture 7.png)
-![Ganache](Picture 8.png)
-![Ganache](Picture 9.png)
+![Ganache](https://github.com/juliannehiew/Cryptocurrency-Wallet/blob/main/Images/Picture6.png)
+![Ganache](https://github.com/juliannehiew/Cryptocurrency-Wallet/blob/main/Images/Picture7.png)
+![Ganache](https://github.com/juliannehiew/Cryptocurrency-Wallet/blob/main/Images/Picture8.png)
+![Ganache](https://github.com/juliannehiew/Cryptocurrency-Wallet/blob/main/Images/Picture9.png)
